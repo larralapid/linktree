@@ -6,11 +6,11 @@ const webLinks = [
         url: 'https://twitter.com/realvjy',
         type: 'social',
         icon: '/twitter.svg',
-        on: true
+        on: false
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/lauralappid',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -31,17 +31,17 @@ const webLinks = [
     },
     {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/larralapid',
         type: 'social',
         icon: '/github.svg',
         on: true
     },
     {
         title: 'Youtube',
-        url: 'https://youtube.com/realvjy',
+        url: 'https://youtube.com/@tila.techila',
         type: 'social',
         icon: '/youtube.svg',
-        on: false
+        on: true
     },
     {
         title: 'Figma',
@@ -59,17 +59,17 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
+        url: 'https://www.linkedin.com/in/larralapid/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: false
+        on: true
     },
     {
         title: 'Mastodon',
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
